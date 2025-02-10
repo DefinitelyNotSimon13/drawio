@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
+  <diagram name="Page-1" id="geURrpE1B-xAJY43V_83">
+    <mxGraphModel dx="1562" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wbPRijzW_1tiqfg6mrB5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wbPRijzW_1tiqfg6mrB5-2" target="wbPRijzW_1tiqfg6mrB5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbPRijzW_1tiqfg6mrB5-2" value="&lt;div&gt;Hardware Abstraction&lt;/div&gt;&lt;div&gt;Layer&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFAAA0,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wbPRijzW_1tiqfg6mrB5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wbPRijzW_1tiqfg6mrB5-3" target="wbPRijzW_1tiqfg6mrB5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbPRijzW_1tiqfg6mrB5-3" value="Game Logic" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F1FF9B,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wbPRijzW_1tiqfg6mrB5-4" value="Output" style="whiteSpace=wrap;html=1;fillColor=light-dark(#C1FFC3,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wbPRijzW_1tiqfg6mrB5-8" value="&lt;div&gt;Direkte Interaktion mit Peripherals&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;ggf. 2 geteilt?&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Bspw.:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- High Level Abstraction: print / println&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Low&amp;nbsp; Level Abstraction: write_byte/write_num &lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="430" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
